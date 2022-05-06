@@ -11,12 +11,15 @@
 # Stella Incanted Books 1-4
 - project: Stella Incanted Books 1-4
   role: Author
+  duration: 2020 &mdash; Present
   description: A novel in progress written as four shorter stories in the wider Stella Incanted universe. Hopefully to be release sometime in 2023.
 
 # Untitled Audio Drama
 - project: Untitled Audio Drama
+  duration: 2022 &mdash; Present
   description: The Extended Creative Project for my University Course. This is an audio drama set in the stella incanted universe. Watch this space or MidnightWick.com for updates.
 
 # Forged
 - project: Forged
-  description: A TTRPG system based on the idea of incremental progress instead of levels. Imagined as a pushback against the idea that TTRPG's must be playable without technology. 
+  duration: 2021 &mdash; Present
+  description: A TTRPG system based on the idea of incremental progress instead of levels. Imagined as a pushback against the idea that TTRPG's must be playable without technology.
