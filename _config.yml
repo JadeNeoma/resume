@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Jade Neoma"
+description: "Freelance Creative"
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ resume_name:                    ""
 resume_title:                   ""
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "Contact@JadeNeoma.co.uk"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -33,14 +33,14 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_experience:      false
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_associations:    false
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
