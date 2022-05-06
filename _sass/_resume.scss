@@ -123,8 +123,8 @@
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: #121212;
+    color: #fff;
   }
 
   &.not-looking { width: 400px; }
